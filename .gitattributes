@@ -1,0 +1,2 @@
+.dwg filter=lfs diff=lfs merge=lfs -text
+.docx filter=lfs diff=lfs merge=lfs -text
